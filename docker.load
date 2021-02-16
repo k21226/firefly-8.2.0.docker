@@ -1,0 +1,1 @@
+docker load -i firefly-8.2.0.docker.tar ubuntu-ff

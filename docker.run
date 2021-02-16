@@ -1,0 +1,1 @@
+docker run -it --rm --mount src=/scratch,target=/scratch,type=bind --mount src=`pwd`,target=/home/ff/work,type=bind ubuntu-ff
